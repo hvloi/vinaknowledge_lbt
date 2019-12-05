@@ -1,0 +1,6 @@
+[submodule "VNK_CCPP"]
+	path = VNK_CCPP
+	url = https://github.com/hvloi/vinaknowledge_ccpp.git
+[submodule "VNK_Kernel"]
+	path = VNK_Kernel
+	url = https://github.com/hvloi/vinaknowledge_linux.git
